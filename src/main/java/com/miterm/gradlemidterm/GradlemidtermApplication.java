@@ -8,6 +8,9 @@ public class GradlemidtermApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GradlemidtermApplication.class, args);
+		System.out.println("hello")
+		hjhhgffdsddfth
 	}
+
 
 }
